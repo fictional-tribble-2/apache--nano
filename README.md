@@ -863,7 +863,7 @@ where `list_doc_params` is the test name.
 * home: <http://github.com/dscape/nano>
 * bugs: <http://github.com/dscape/nano/issues>
 * build: [![build status](https://secure.travis-ci.org/dscape/nano.png)](http://travis-ci.org/dscape/nano)
-* deps: [![deps status](https://david-dm.org/dscape/nano.png)](https://david-dm.org/dscape/nano) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/apache--nano.svg)](https://www.staging.guardrails.io)
+* deps: [![deps status](https://david-dm.org/dscape/nano.png)](https://david-dm.org/dscape/nano) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/apache--nano.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/apache--nano.svg)](https://www.guardrails.io)
 * chat: <https://gitter.im/dscape/nano>
 
 `(oo)--',-` in [caos][3]
